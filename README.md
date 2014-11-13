@@ -20,7 +20,7 @@ A little script to call Gnome Terminal like Guake, Yakuake (without the dropdown
 
 ### Little tutorial
 
-Open `Settings Panel` and clic `KeyBoard`:
+Open `Settings Panel` and click `KeyBoard`:
 ![alt text][settings]
 
 ----------
