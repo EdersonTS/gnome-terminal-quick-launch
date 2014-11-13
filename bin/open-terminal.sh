@@ -36,7 +36,7 @@
 
 
 # TEMP file to save Current Window ID
-TMP_FILE='/var/run/open-terminal.last_window_id'
+TMP_FILE='/var/tmp/open-terminal.last_window_id'
 
 # Create TEMP File
 touch $TMP_FILE
