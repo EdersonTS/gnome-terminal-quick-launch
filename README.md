@@ -15,3 +15,23 @@ A little script to call Gnome Terminal like Guake, Yakuake (without the dropdown
   - copy `bin/open-terminal.sh` to whatever you want
   - add a keybind to `open-terminal.sh`
   - be happy
+
+----------
+
+### Little tutorial
+
+Open `Settings Panel` and clic `KeyBoard`: [settings]
+
+Go to `Shortcuts` tab: [shortcuts]
+
+Add `Custom Shortcuts`: [command]
+
+Now your command is added, is time to add `new keys` by `clicking on 'Disabled' and hold down the news keys`: [defined]
+
+Done: [done]
+
+[settings]: https://raw.githubusercontent.com/EdersonTS/gnome-terminal-quick-launch/master/doc/01.%20All%20Settings.png  "All Settings.png"
+[shortcuts]: https://raw.githubusercontent.com/EdersonTS/gnome-terminal-quick-launch/master/doc/02.%20Shotcuts%20panel.png  "Shotcuts panel.png"
+[command]: https://raw.githubusercontent.com/EdersonTS/gnome-terminal-quick-launch/master/doc/03.%20Add%20custom%20command.png  "Add custom command.png"
+[defined]: https://raw.githubusercontent.com/EdersonTS/gnome-terminal-quick-launch/master/doc/04.%20Command%20defined.png  "Command defined.png"
+[done]: https://raw.githubusercontent.com/EdersonTS/gnome-terminal-quick-launch/master/doc/05.%20Add%20custom%20keys.png  "Add custom keys.png"
